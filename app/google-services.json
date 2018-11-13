@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1040195235439",
+    "firebase_url": "https://interviewsean.firebaseio.com",
+    "project_id": "interviewsean",
+    "storage_bucket": "interviewsean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040195235439:android:2ef064ae234fb706",
+        "android_client_info": {
+          "package_name": "csc472.depaul.edu.interviewsean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040195235439-9h78usc8tisvpn701fdh5kc3rukop1ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "csc472.depaul.edu.interviewsean",
+            "certificate_hash": "4a56cd489e33b26bd9ff3a4c58efdf9306c2f115"
+          }
+        },
+        {
+          "client_id": "1040195235439-l7c015b18kp93kt9b54mos90cjvk0eh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHc_OobvwEZOT7sEseqib9N-FYxSYDBhE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040195235439-l7c015b18kp93kt9b54mos90cjvk0eh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
